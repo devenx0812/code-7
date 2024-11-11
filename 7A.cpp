@@ -1,5 +1,5 @@
-// NAME -GARV NANDWANA
-// PRN - 23070123167
+// NAME - DEVANSH CHACHRA
+// PRN - 22070123039
 // EXPERIMENT - 7(A) 
 
 #include<iostream>
